@@ -58,9 +58,9 @@ for count in range(total):
 There are 6 total parameters that you can add into bar function.
 
 * [total](#total)
-* [count & cnt](#count & cnt)
+* [count & cnt](#count--cnt)
 * [title](#title)
-* [done_text & togo_text](#done_text & togo_text)
+* [done_text & togo_text](#done_text--togo_text)
 
 ### total
 
