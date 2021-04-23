@@ -41,6 +41,7 @@ You must always have at least the:
 
 ```python
 import indikator as ik
+total = 100
 for count in range(total):
     
     # YOUR CODE HERE
